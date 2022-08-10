@@ -1,0 +1,30 @@
+{
+  "segments": [
+    "virtual_env",
+    "username",
+    "hostname",
+    "ssh",
+    "cwd",
+    "newline",
+    "time",
+    "git",
+    "fossil",
+    "git_stash",
+    "hg",
+    "jobs",
+    "svn",
+    "root"
+  ],
+  "cwd": {
+    "max_depth": 7,
+    "max_dir_size": 12,
+    "full_cwd": true
+  },
+  "vcs": {
+    "show_symbol": true
+  },
+  "time": {
+    "format": "%H:%M"
+  },
+  "theme": "~/.config/powerline-shell/themes/spaced.py"
+}
